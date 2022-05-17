@@ -1,10 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 :root {
-    --main-color: #a4c639;
+    --main-color: #61DAFB;
     --bg: #202026;
     --text-color: #F8F7FF;
 }
-
 
 * {
     padding: 0;
@@ -54,6 +53,12 @@ b {
 }
 
 svg {
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+}
+
+img {
     width: 20px;
     height: 20px;
     margin-right: 8px;
